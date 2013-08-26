@@ -1,0 +1,10 @@
+#canvas
+{
+    border: #000000 1px solid;
+    background-color: black;
+}
+
+#score
+{
+    font-weight: bold;
+}
